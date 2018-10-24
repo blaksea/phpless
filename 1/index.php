@@ -12,7 +12,6 @@ $h1 = "minimalistica";
 <body>
 	<div id="content">
 		<h1><?echo $h1;?></h1>
-		
 		<ul id="menu">
 			<li><a href="#">home</a></li>
 			<li><a href="#">archive</a></li>
