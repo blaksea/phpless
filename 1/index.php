@@ -7,11 +7,11 @@ $h1 = "minimalistica";
 	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
 	<meta name="author" content="Luka Cvrk (www.solucija.com)" />
 	<link rel="stylesheet" href="css/main.css" type="text/css" />
-	<title><?echo $title;?></title>
+	<title><?=$title;?></title>
 </head>
 <body>
 	<div id="content">
-		<h1><?echo $h1;?></h1>
+		<h1><?=$h1;?></h1>
 		<ul id="menu">
 			<li><a href="#">home</a></li>
 			<li><a href="#">archive</a></li>
