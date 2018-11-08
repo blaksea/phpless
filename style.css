@@ -1,0 +1,35 @@
+img {
+width: 60px;
+}
+table {
+    margin: 50px auto;
+}
+
+#textname {
+width:200px;
+}
+
+header {
+  text-align: center;
+}
+.images {
+  width: 300%;
+  margin: 0 auto;
+}
+.add_foto {
+  text-align: center;
+  margin-top: 50px;
+}
+.add_foto input {
+  width: 200px;
+  background: #aaa;
+  color:#fff;
+}
+.add_foto span {
+  font-size: 20px;
+}
+.add_foto button {
+  background: #111;
+  font-size: 16px;
+  color:#eee;
+}
